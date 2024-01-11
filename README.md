@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm DaroOps , a Unity developer and full-stack enthusiast with a passion for technology. Skilled in JavaScript, React, and Python. Let's innovate together!</div>  
   
 
-- 🔭 I’m currently working on refining my skills in Unity  
+- 🔭 I’m currently working on refining my skills in python and others... 
   
 
 - 🌱 I’m currently learning Typescript  
