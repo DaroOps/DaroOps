@@ -6,10 +6,10 @@
 ### <div align="center">Hi, I'm DaroOps , a Unity developer and full-stack enthusiast with a passion for technology. Skilled in JavaScript, React, and Python. Let's innovate together!</div>  
   
 
-- 🔭 I’m currently working on refining my skills in python and others... 
+- 🔭 I’m currently working on refining my skills in python and other languages... 
   
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning MongoDB, CI/CD, Docker and AWS
   
 
 - 🦾 Passionate about the 3D printing world  
